@@ -1,3 +1,6 @@
+Credits
+This project is based on the original vprofile project by https://github.com/hkhcoder.
+I have made modifications for educational/deployment purposes.
 # Prerequisites
 #
 - JDK 17 or 21
